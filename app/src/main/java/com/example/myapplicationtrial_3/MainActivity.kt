@@ -3,7 +3,7 @@ package com.example.myapplicationtrial_3
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-//first commit
+//second commit
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
